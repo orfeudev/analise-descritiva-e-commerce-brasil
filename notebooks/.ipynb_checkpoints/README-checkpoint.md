@@ -21,7 +21,10 @@ Além disso, busca-se evidenciar diferenças regionais e estaduais no cumpriment
 8. **Conclusões e Recomendações**
 
 ## Principais Resultados
-
+- Pedidos atrasados recebem, em média, **notas muito mais baixas** (≈ 2.27) do que pedidos entregues no prazo (≈ 4.29).
+- A **correlação de Pearson** entre atraso (em dias) e nota é **-0.267**, indicando relação negativa significativa.
+- Cada dia de atraso reduz a nota média em aproximadamente **0.034 pontos**.
+- O **Nordeste** apresentou o maior percentual de atrasos (~12,5%), enquanto o **Sul** teve o menor (~5,8%).
 
 ## Tecnologias Utilizadas
 - **Python 3.7+**
@@ -31,3 +34,4 @@ Além disso, busca-se evidenciar diferenças regionais e estaduais no cumpriment
 - **Scikit-learn** (regressão linear)
 - **Jupyter Notebook** para exploração
 
+## 📂 Estrutura do Repositório
